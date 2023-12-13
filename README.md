@@ -8,7 +8,7 @@ Also contains a landing screen containing information on how to navigate the fra
 
 Image of initial screen:
 
-![image](https://github.com/eavansch/ECE431-Digital_Picture_Frame-EVS/assets/89333755/7e37e050-084c-4cfd-81a3-c136edcc948f)
+  ![image](https://github.com/eavansch/ECE431-Digital_Picture_Frame-EVS/assets/89333755/7e37e050-084c-4cfd-81a3-c136edcc948f)
 
 Sample image of one of five images to be displayed:
 
